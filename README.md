@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 ### Github Status
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saidrishya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saidrishya)](https://git.io/streak-stats)
+
