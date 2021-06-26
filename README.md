@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=9d72ff)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=9d72ff)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=9d72ff)
-![](https://img.shields.io/badge/Code-sQL-informational?style=flat&logo=sql&logoColor=white&color=9d72ff)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=9d72ff)
+![](https://img.shields.io/badge/Code-Machine Learning-informational?style=flat&logo=MachineLearning&logoColor=white&color=9d72ff)
+![](https://img.shields.io/badge/Code-Deep Learning-informational?style=flat&logo=DeepLearning&logoColor=white&color=9d72ff)
+![](https://img.shields.io/badge/Code-Computer Vision-informational?style=flat&logo=ComputerVision&logoColor=white&color=9d72ff)
+![](https://img.shields.io/badge/Code-NLP-informational?style=flat&logo=NLP&logoColor=white&color=9d72ff)
 
 ### Github Status
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saidrishya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
