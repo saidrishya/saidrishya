@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Technologies I know 
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=9d72ff)
+![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=django&logoColor=white&color=9d72ff)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=9d72ff)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=9d72ff)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=sql&logoColor=white&color=9d72ff)
 
 ### Github Status
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saidrishya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
