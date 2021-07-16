@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 ### Github Status
 ![Drishya's github activity graph](https://activity-graph.herokuapp.com/graph?username=saidrishya&theme=xcode)](https://git.io/saidrishya)
-![Drishya's GitHub stats](https://github-readme-stats.vercel.app/api?username=saidrishya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-[![Drishya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saidrishya)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saidrishya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saidrishya)](https://git.io/streak-stats)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=saidrishya.saidrishya)
 
