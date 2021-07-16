@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hey I'm Drishya <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
+
 
 <!--
 **saidrishya/saidrishya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
