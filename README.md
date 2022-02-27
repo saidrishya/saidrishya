@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-ComputerVision-informational?style=flat&logo=ComputerVision&logoColor=white&color=9d72ff)
 ![](https://img.shields.io/badge/Code-NLP-informational?style=flat&logo=NLP&logoColor=white&color=9d72ff)
 
+Download my Chrome extensio - https://chrome.google.com/webstore/detail/text-summarizer/opanicjakfogcgdbngjmmgcnojfmiknp
+
 ### Github Status
 ![Drishya's github activity graph](https://activity-graph.herokuapp.com/graph?username=saidrishya&theme=xcode)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saidrishya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
